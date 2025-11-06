@@ -1,6 +1,6 @@
 # Prueba: Utilizando Github
 Prueba para github pages
 
-## Diferentes funciones
+## Subir archivos y documentos
 
-## Probando las funciones
+## Subir el framework a Github
